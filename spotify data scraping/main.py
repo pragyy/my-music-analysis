@@ -1,3 +1,9 @@
+'''
+
+code by : https://github.com/vlad-ds/spoty-records
+
+
+'''
 import history
 import pandas as pd
 from time import sleep
