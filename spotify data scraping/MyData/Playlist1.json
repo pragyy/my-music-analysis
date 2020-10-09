@@ -1,23 +1,31 @@
 {
   "playlists": [
     {
-      "name": "Edm & Dance",
-      "lastModifiedDate": "2020-06-08",
+      "name": "Hip-hop/Rap",
+      "lastModifiedDate": "2020-08-12",
       "items": [
         {
           "track": {
-            "trackName": "Brave",
-            "artistName": "Don Diablo",
-            "albumName": "Brave"
+            "trackName": "45 Man - Bonus Track",
+            "artistName": "Rak-Su",
+            "albumName": "Dive EP"
           },
           "episode": null,
           "localTrack": null
-        },
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Country",
+      "lastModifiedDate": "2020-06-24",
+      "items": [
         {
           "track": {
-            "trackName": "All The Lies",
-            "artistName": "Alok",
-            "albumName": "All The Lies"
+            "trackName": "Geronimo - From \"Alvin And The Chipmunks: The Road Chip\" Soundtrack",
+            "artistName": "Sheppard",
+            "albumName": "Alvin And The Chipmunks: The Road Chip"
           },
           "episode": null,
           "localTrack": null
@@ -28,7 +36,7 @@
     },
     {
       "name": "Jason derulo",
-      "lastModifiedDate": "2020-06-01",
+      "lastModifiedDate": "2020-09-03",
       "items": [
         {
           "track": {
@@ -146,6 +154,60 @@
           },
           "episode": null,
           "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Savage Love (Laxed - Siren Beat)",
+            "artistName": "Jawsh 685",
+            "albumName": "Savage Love (Laxed - Siren Beat)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Coño",
+            "artistName": "Jason Derulo",
+            "albumName": "Coño"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Take You Dancing",
+            "artistName": "Jason Derulo",
+            "albumName": "Take You Dancing"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Cry For Me (with Jason Derulo) - Acoustic",
+            "artistName": "Alok",
+            "albumName": "Don't Cry For Me (with Jason Derulo)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Cry For Me (with Jason Derulo)",
+            "artistName": "Alok",
+            "albumName": "Don't Cry For Me (with Jason Derulo)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "If I'm Lucky",
+            "artistName": "Jason Derulo",
+            "albumName": "If I'm Lucky"
+          },
+          "episode": null,
+          "localTrack": null
         }
       ],
       "description": null,
@@ -153,7 +215,7 @@
     },
     {
       "name": "Cringe",
-      "lastModifiedDate": "2020-06-16",
+      "lastModifiedDate": "2020-06-23",
       "items": [
         {
           "track": {
@@ -212,7 +274,7 @@
         {
           "track": {
             "trackName": "On Me (feat. Ava Max)",
-            "artistName": "Various Artists",
+            "artistName": "Thomas Rhett",
             "albumName": "SCOOB! The Album"
           },
           "episode": null,
@@ -241,6 +303,33 @@
             "trackName": "Bedroom Floor",
             "artistName": "Liam Payne",
             "albumName": "LP1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Narcissist (feat. The 1975)",
+            "artistName": "No Rome",
+            "albumName": "RIP Indo Hisashi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Left to Right",
+            "artistName": "Marteen",
+            "albumName": "NOTHANKYOU."
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sucker for You",
+            "artistName": "Matt Terry",
+            "albumName": "Sucker for You"
           },
           "episode": null,
           "localTrack": null
@@ -497,7 +586,7 @@
         {
           "track": {
             "trackName": "Saansein",
-            "artistName": "Various Artists",
+            "artistName": "Prateek Kuhad",
             "albumName": "Karwaan"
           },
           "episode": null,
@@ -508,8 +597,8 @@
       "numberOfFollowers": 0
     },
     {
-      "name": "Beats",
-      "lastModifiedDate": "2019-09-16",
+      "name": "Beats/EDM",
+      "lastModifiedDate": "2020-09-26",
       "items": [
         {
           "track": {
@@ -523,7 +612,7 @@
         {
           "track": {
             "trackName": "Lalla Lalla Lori",
-            "artistName": "Rochak Kohli",
+            "artistName": "Vishal Dadlani",
             "albumName": "Welcome 2 Karachi"
           },
           "episode": null,
@@ -676,7 +765,7 @@
         {
           "track": {
             "trackName": "Instagram",
-            "artistName": "Various Artists",
+            "artistName": "Dimitri Vegas & Like Mike",
             "albumName": "Instagram"
           },
           "episode": null,
@@ -726,6 +815,78 @@
           },
           "episode": null,
           "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Brave",
+            "artistName": "Don Diablo",
+            "albumName": "Brave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All The Lies",
+            "artistName": "Alok",
+            "albumName": "All The Lies"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Still Remember (R3HAB Remix)",
+            "artistName": "Caroline Romano",
+            "albumName": "I Still Remember (R3HAB Remix)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Want You to Freak",
+            "artistName": "Rak-Su",
+            "albumName": "I Want You to Freak"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Post Malone (feat. RANI)",
+            "artistName": "Sam Feldt",
+            "albumName": "Post Malone (feat. RANI)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)",
+            "artistName": "Matoma",
+            "albumName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "#thatPOWER",
+            "artistName": "will.i.am",
+            "albumName": "#willpower"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dynamite - EDM Remix",
+            "artistName": "BTS",
+            "albumName": "Dynamite (Extended)"
+          },
+          "episode": null,
+          "localTrack": null
         }
       ],
       "description": null,
@@ -733,7 +894,7 @@
     },
     {
       "name": "Random",
-      "lastModifiedDate": "2020-06-08",
+      "lastModifiedDate": "2020-09-04",
       "items": [
         {
           "track": {
@@ -899,7 +1060,7 @@
         },
         {
           "track": {
-            "trackName": "Firestone (feat. Conrad Sewell)",
+            "trackName": "Firestone",
             "artistName": "Kygo",
             "albumName": "Cloud Nine"
           },
@@ -1053,7 +1214,7 @@
         {
           "track": {
             "trackName": "Untameable",
-            "artistName": "Various Artists",
+            "artistName": "Rachel Varghese",
             "albumName": "Four More Shots Please!"
           },
           "episode": null,
@@ -1062,7 +1223,7 @@
         {
           "track": {
             "trackName": "I Don't Do Love Anymore",
-            "artistName": "Various Artists",
+            "artistName": "Medha Sahi",
             "albumName": "Four More Shots Please!"
           },
           "episode": null,
@@ -1071,7 +1232,7 @@
         {
           "track": {
             "trackName": "Myself",
-            "artistName": "Various Artists",
+            "artistName": "Medha Sahi",
             "albumName": "Four More Shots Please!"
           },
           "episode": null,
@@ -1179,7 +1340,7 @@
         {
           "track": {
             "trackName": "Instagram",
-            "artistName": "Various Artists",
+            "artistName": "Dimitri Vegas & Like Mike",
             "albumName": "Instagram"
           },
           "episode": null,
@@ -1242,8 +1403,35 @@
         {
           "track": {
             "trackName": "On Me (feat. Ava Max)",
-            "artistName": "Various Artists",
+            "artistName": "Thomas Rhett",
             "albumName": "SCOOB! The Album"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Want You to Freak",
+            "artistName": "Rak-Su",
+            "albumName": "I Want You to Freak"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La Bomba",
+            "artistName": "Rak-Su",
+            "albumName": "La Bomba"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)",
+            "artistName": "Matoma",
+            "albumName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)"
           },
           "episode": null,
           "localTrack": null

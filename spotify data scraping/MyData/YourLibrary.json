@@ -1,6 +1,16 @@
 {
   "tracks": [
     {
+      "artist": "Tanishk Bagchi",
+      "album": "Makhna (From \"Drive\")",
+      "track": "Makhna"
+    },
+    {
+      "artist": "Syn Cole",
+      "album": "Getaway",
+      "track": "Getaway - VIP Mix"
+    },
+    {
       "artist": "Alex & Sierra",
       "album": "It's About Us",
       "track": "I Love You"
@@ -11,19 +21,14 @@
       "track": "You Don't Know Me"
     },
     {
+      "artist": "Shawn Mendes",
+      "album": "Handwritten",
+      "track": "Stitches"
+    },
+    {
       "artist": "Tritonal",
       "album": "Long Way Home",
       "track": "Long Way Home"
-    },
-    {
-      "artist": "Syn Cole",
-      "album": "Getaway",
-      "track": "Getaway - VIP Mix"
-    },
-    {
-      "artist": "Tanishk Bagchi",
-      "album": "Makhna (From \"Drive\")",
-      "track": "Makhna"
     }
   ],
   "albums": [
