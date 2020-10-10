@@ -1,6 +1,6 @@
 '''
 
-code by : https://github.com/vlad-ds/spoty-records
+author = 'Vlad Gheorghe'
 
 
 '''
