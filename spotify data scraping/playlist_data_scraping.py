@@ -9,9 +9,9 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import spotipy
 import pandas as pd
 
-client_id = # your client id
-client_secret = #your client secret
-username = #your username
+client_id = # enter your client id
+client_secret = #  enter your client secret
+username = # enter your username
 
 # create a dataframe to store infomation of my playlists 
 my_playlist =  pd.DataFrame(columns=["id", "spotify_id", "list_name"])
