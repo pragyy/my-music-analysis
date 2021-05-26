@@ -1,39 +1,60 @@
 {
   "tracks": [
     {
-      "artist": "Tanishk Bagchi",
-      "album": "Makhna (From \"Drive\")",
-      "track": "Makhna"
-    },
-    {
-      "artist": "Syn Cole",
-      "album": "Getaway",
-      "track": "Getaway - VIP Mix"
+      "artist": "Audien",
+      "album": "Favorite Sound",
+      "track": "Favorite Sound",
+      "uri": "spotify:track:63ZtaTHM7Cu3JEca5xrWi3"
     },
     {
       "artist": "Alex & Sierra",
       "album": "It's About Us",
-      "track": "I Love You"
+      "track": "I Love You",
+      "uri": "spotify:track:2ELVVIbpucfOqGFC21Q4yR"
     },
     {
-      "artist": "Kevin Silvester",
-      "album": "Runway / You Don't Know Me",
-      "track": "You Don't Know Me"
-    },
-    {
-      "artist": "Shawn Mendes",
-      "album": "Handwritten",
-      "track": "Stitches"
+      "artist": "Tanishk Bagchi",
+      "album": "Makhna (From \"Drive\")",
+      "track": "Makhna",
+      "uri": "spotify:track:0ZHILXmUaVSLEOCWxPQ1ga"
     },
     {
       "artist": "Tritonal",
       "album": "Long Way Home",
-      "track": "Long Way Home"
+      "track": "Long Way Home",
+      "uri": "spotify:track:4RdZfdkgW1OmkajhvcOxA1"
+    },
+    {
+      "artist": "Syn Cole",
+      "album": "Getaway",
+      "track": "Getaway - VIP Mix",
+      "uri": "spotify:track:7p4zGB2Xj1hs7eoJU79YrV"
+    },
+    {
+      "artist": "Kevin Silvester",
+      "album": "Runway / You Don't Know Me",
+      "track": "You Don't Know Me",
+      "uri": "spotify:track:0IUWYcMLbNVAAe0ni0oSou"
     }
   ],
   "albums": [
   ],
   "shows": [
+    {
+      "name": "Solve",
+      "publisher": "iHeartRadio",
+      "uri": "spotify:show:42siLfeONMloB9InX8eVT9"
+    },
+    {
+      "name": "Think Fast, Talk Smart: Communication Techniques.",
+      "publisher": "Stanford GSB",
+      "uri": "spotify:show:6ll0MwobDt1JW9gYaOONEo"
+    },
+    {
+      "name": "True Spies: Espionage | Investigation | Crime | Murder | Detective | Politics",
+      "publisher": "SPYSCAPE",
+      "uri": "spotify:show:3mGrX1kTN36ruTApsriWmv"
+    }
   ],
   "episodes": [
   ],

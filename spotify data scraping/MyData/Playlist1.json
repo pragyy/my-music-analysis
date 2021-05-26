@@ -1,14 +1,349 @@
 {
   "playlists": [
     {
-      "name": "Hip-hop/Rap",
-      "lastModifiedDate": "2020-08-12",
+      "name": "Yoga Mix",
+      "lastModifiedDate": "2021-04-26",
+      "items": [
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Chillax Dance Mix",
+      "lastModifiedDate": "2021-05-17",
       "items": [
         {
           "track": {
-            "trackName": "45 Man - Bonus Track",
-            "artistName": "Rak-Su",
-            "albumName": "Dive EP"
+            "trackName": "Fast Car",
+            "artistName": "Jonas Blue",
+            "albumName": "Fast Car",
+            "trackUri": "spotify:track:2mCF8L0brIs88eH6Kf2h9p"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ride It",
+            "artistName": "Regard",
+            "albumName": "Ride It",
+            "trackUri": "spotify:track:2tnVG71enUj33Ic2nFN6kZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Took A Pill In Ibiza - Seeb Remix",
+            "artistName": "Mike Posner",
+            "albumName": "At Night, Alone.",
+            "trackUri": "spotify:track:0vbtURX4qv1l7besfwmnD8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lean On",
+            "artistName": "Major Lazer",
+            "albumName": "Peace Is The Mission",
+            "trackUri": "spotify:track:4WxU1gDVmoH6gstgR0MT78"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Last Hurrah - David Guetta Remix",
+            "artistName": "Bebe Rexha",
+            "albumName": "Last Hurrah",
+            "trackUri": "spotify:track:66wF9HWqR8RpQ47tiVQpgx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dancing In The Moonlight (feat. NEIMY)",
+            "artistName": "Jubël",
+            "albumName": "Dancing In The Moonlight (feat. NEIMY)",
+            "trackUri": "spotify:track:4GSDkZt7GcmzBWmsMcpaVO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Weekend Vibe",
+            "artistName": "Jubël",
+            "albumName": "Weekend Vibe",
+            "trackUri": "spotify:track:5c0lWlmIyCq7hzBhpZasYL"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let It Be Me (feat. Ava Max)",
+            "artistName": "David Guetta",
+            "albumName": "7",
+            "trackUri": "spotify:track:2F83FxNVkK6PPMHuYnwyVc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Carry On (from the Original Motion Picture \"POKÉMON Detective Pikachu\")",
+            "artistName": "Kygo",
+            "albumName": "Carry On (from the Original Motion Picture \"POKÉMON Detective Pikachu\")",
+            "trackUri": "spotify:track:3y3brCCecHC3Db18aIOnny"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Like A Riddle (feat. Hearts & Colors, Adam Trigger)",
+            "artistName": "Felix Jaehn",
+            "albumName": "I",
+            "trackUri": "spotify:track:2jGOQqWZKjy6A64kWIcdIs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hot2Touch",
+            "artistName": "Felix Jaehn",
+            "albumName": "I",
+            "trackUri": "spotify:track:0m6M0TRGs7dOqZAryYcwiH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cheerleader - Felix Jaehn Remix / Radio Edit",
+            "artistName": "OMI",
+            "albumName": "I",
+            "trackUri": "spotify:track:5riZ2wSbbVmLIj2xGcMOiD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jennie (feat. R. City, Bori)",
+            "artistName": "Felix Jaehn",
+            "albumName": "I",
+            "trackUri": "spotify:track:7uM7YZwNZqdDMG0NfGhmux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+            "artistName": "Felix Jaehn",
+            "albumName": "I",
+            "trackUri": "spotify:track:3c8iiZGfEammKJuWTErE5x"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Masterpiece",
+            "artistName": "OMI",
+            "albumName": "Masterpiece",
+            "trackUri": "spotify:track:2fCCoGXcA2j9fFhvfRqfVQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "So Close",
+            "artistName": "NOTD",
+            "albumName": "So Close (feat. Georgia Ku)",
+            "trackUri": "spotify:track:7FjZU7XFs7P9jHI9Z0yRhK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Drink About",
+            "artistName": "Seeb",
+            "albumName": "Nice To Meet You",
+            "trackUri": "spotify:track:73WJ6rYbtFi0Z2T4hPS1iN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Strongest (Alan Walker Remix)",
+            "artistName": "Ina Wroldsen",
+            "albumName": "Strongest (Alan Walker Remix)",
+            "trackUri": "spotify:track:2r9hCNjupNy2C2g3r6SNz6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Way Back Home (feat. Conor Maynard) - Sam Feldt Edit",
+            "artistName": "SHAUN",
+            "albumName": "Way Back Home (feat. Conor Maynard)",
+            "trackUri": "spotify:track:1ZLrDPgR7mvuTco3rQK8Pk"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": "Chiil Dance&#x2F;EDM Music.",
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Motivation Mix",
+      "lastModifiedDate": "2021-03-30",
+      "items": [
+        {
+          "track": {
+            "trackName": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
+            "artistName": "Pitbull",
+            "albumName": "Planet Pit (Deluxe Version)",
+            "trackUri": "spotify:track:4QNpBfC0zvjKqPJcyqBy9W"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Time of Our Lives",
+            "artistName": "Pitbull",
+            "albumName": "Globalization",
+            "trackUri": "spotify:track:2bJvI42r8EF3wxjOuDav4r"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Feel This Moment (feat. Christina Aguilera)",
+            "artistName": "Pitbull",
+            "albumName": "Global Warming: Meltdown (Deluxe Version)",
+            "trackUri": "spotify:track:0Hf4aIJpsN4Os2f0y0VqWl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fight Back",
+            "artistName": "NEFFEX",
+            "albumName": "Fight Back: The Collection",
+            "trackUri": "spotify:track:6KigD0mlF4VGDYiSEzAyYw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Me, Myself & I",
+            "artistName": "G-Eazy",
+            "albumName": "When It's Dark Out",
+            "trackUri": "spotify:track:40YcuQysJ0KlGQTeGUosTC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Good Life (with G-Eazy & Kehlani)",
+            "artistName": "G-Eazy",
+            "albumName": "Good Life (with G-Eazy & Kehlani)",
+            "trackUri": "spotify:track:0Oa9mHOnH14GZ4toWwkf4c"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stronger (feat. Kesha)",
+            "artistName": "Sam Feldt",
+            "albumName": "Stronger (feat. Kesha)",
+            "trackUri": "spotify:track:4NctFqJyGAqurHFEUQvWgR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "#thatPOWER",
+            "artistName": "will.i.am",
+            "albumName": "#willpower",
+            "trackUri": "spotify:track:01TuObJVd7owWchVRuQbQw"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": "Getting my SH*T done.",
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Adventure",
+      "lastModifiedDate": "2021-03-30",
+      "items": [
+        {
+          "track": {
+            "trackName": "Geronimo - From \"Alvin And The Chipmunks: The Road Chip\" Soundtrack",
+            "artistName": "Sheppard",
+            "albumName": "Alvin And The Chipmunks: The Road Chip",
+            "trackUri": "spotify:track:2bCBowfjQbsT6jXEqpGqDx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Nights",
+            "artistName": "Avicii",
+            "albumName": "The Days / Nights",
+            "trackUri": "spotify:track:0ct6r3EGTcMLPtrXHDvVjc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gone, Gone, Gone",
+            "artistName": "Phillip Phillips",
+            "albumName": "The World From The Side Of The Moon",
+            "trackUri": "spotify:track:2qHiyBpxyOXnRGG3t2iE96"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Lived",
+            "artistName": "OneRepublic",
+            "albumName": "Native",
+            "trackUri": "spotify:track:3IQF4xCQUPicbA4hWfTxPo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Go Big Or Go Home",
+            "artistName": "American Authors",
+            "albumName": "What We Live For",
+            "trackUri": "spotify:track:1obisQNOcikRvTdStbW3pG"
           },
           "episode": null,
           "localTrack": null
@@ -18,14 +353,243 @@
       "numberOfFollowers": 0
     },
     {
-      "name": "Country",
-      "lastModifiedDate": "2020-06-24",
+      "name": "HIIT",
+      "lastModifiedDate": "2021-04-14",
       "items": [
         {
           "track": {
-            "trackName": "Geronimo - From \"Alvin And The Chipmunks: The Road Chip\" Soundtrack",
-            "artistName": "Sheppard",
-            "albumName": "Alvin And The Chipmunks: The Road Chip"
+            "trackName": "Sleep Deprived",
+            "artistName": "Lvly",
+            "albumName": "Just Lvly",
+            "trackUri": "spotify:track:4DnKcKgI62poB2usPeVdkf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Girl in the Mirror",
+            "artistName": "Bebe Rexha",
+            "albumName": "UglyDolls",
+            "trackUri": "spotify:track:2UcK3xgGDxPSyKzKqyPv0s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)",
+            "artistName": "Matoma",
+            "albumName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)",
+            "trackUri": "spotify:track:3EO4XZNWf9CuOqYLsm32OJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Beside You (feat. Georgia Ku)",
+            "artistName": "Matoma",
+            "albumName": "Beside You (feat. Georgia Ku)",
+            "trackUri": "spotify:track:6Tdy6tOHVEyBmlObZpGJJc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Coming To Get You",
+            "artistName": "Lvly",
+            "albumName": "Just Lvly",
+            "trackUri": "spotify:track:0NFzM7qIEu1LI4pHgP2hNy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Run Free",
+            "artistName": "Deep Chills",
+            "albumName": "Run Free",
+            "trackUri": "spotify:track:1oIdcFtf58sZbS7QyZQJ2P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Middle",
+            "artistName": "Zedd",
+            "albumName": "The Middle",
+            "trackUri": "spotify:track:09IStsImFySgyp0pIQdqAc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rumors",
+            "artistName": "Jake Miller",
+            "albumName": "Rumors",
+            "trackUri": "spotify:track:6llBOJ6HLHvlVnKeZqhXk8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bodytalk (STFU)",
+            "artistName": "Blasterjaxx",
+            "albumName": "Bodytalk (STFU)",
+            "trackUri": "spotify:track:2vIkEXi009Hxc1K3oMsLqR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Way (Steve Aoki & Aloe Blacc)",
+            "artistName": "Steve Aoki",
+            "albumName": "My Way (Steve Aoki & Aloe Blacc)",
+            "trackUri": "spotify:track:0FJw1Pg9xXCxbcyQMI6GAe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gizmo",
+            "artistName": "Syn Cole",
+            "albumName": "Gizmo",
+            "trackUri": "spotify:track:03As1KdZnUfricQT09te8C"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Black Magic",
+            "artistName": "Jonasu",
+            "albumName": "Black Magic",
+            "trackUri": "spotify:track:7zx1i0jGcFwMBurajgKlO7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Luv U (with R3HAB)",
+            "artistName": "Sofia Carson",
+            "albumName": "I Luv U (with R3HAB)",
+            "trackUri": "spotify:track:3HTySujYyWa1nZdfiZVZs0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sign",
+            "artistName": "DEAMN",
+            "albumName": "Save Me",
+            "trackUri": "spotify:track:4ZVSSE2JUJwsyTukDwjoT6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "So Sick (feat. blackbear) [Martin Jensen Remix]",
+            "artistName": "Kiiara",
+            "albumName": "So Sick (feat. blackbear) [Martin Jensen Remix]",
+            "trackUri": "spotify:track:4j1fFJvUcQxMrLEMBHV9NQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Drive My Car",
+            "artistName": "DEAMN",
+            "albumName": "Save Me",
+            "trackUri": "spotify:track:4mxNQAc4gSzfHRhntP1b5E"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Going Like",
+            "artistName": "Hallman",
+            "albumName": "I'm Going Like",
+            "trackUri": "spotify:track:4o7zeDjEoPALOH9ZN483Oj"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": "Catchy beats for your weekly HIIT workout. Move onto every beat of the songs.",
+      "numberOfFollowers": 1
+    },
+    {
+      "name": "Hip-hop/Rap",
+      "lastModifiedDate": "2021-03-30",
+      "items": [
+        {
+          "track": {
+            "trackName": "45 Man - Bonus Track",
+            "artistName": "Rak-Su",
+            "albumName": "Dive EP",
+            "trackUri": "spotify:track:49NWFeDYeNBx55vxxmwCQe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Antidote - Radio Edit",
+            "artistName": "Swedish House Mafia",
+            "albumName": "Antidote",
+            "trackUri": "spotify:track:38JE3O2HocFNvtljgtlNKv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You're Ma Cherie - DJ Antoine vs Mad Mark 2K13 Radio Edit",
+            "artistName": "DJ Antoine",
+            "albumName": "Sky Is the Limit",
+            "trackUri": "spotify:track:5tC8ycFXQvYppqL8bzN0LU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "International Love (feat. Chris Brown)",
+            "artistName": "Pitbull",
+            "albumName": "Planet Pit (Deluxe Version)",
+            "trackUri": "spotify:track:62zFEHfAYl5kdHYOivj4BC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Feel This Moment (feat. Christina Aguilera)",
+            "artistName": "Pitbull",
+            "albumName": "Global Warming: Meltdown (Deluxe Version)",
+            "trackUri": "spotify:track:0Hf4aIJpsN4Os2f0y0VqWl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Feelin' Myself",
+            "artistName": "will.i.am",
+            "albumName": "#willpower",
+            "trackUri": "spotify:track:5MLQWQRbUmx388EMW04YQY"
           },
           "episode": null,
           "localTrack": null
@@ -36,13 +600,14 @@
     },
     {
       "name": "Jason derulo",
-      "lastModifiedDate": "2020-09-03",
+      "lastModifiedDate": "2020-11-26",
       "items": [
         {
           "track": {
             "trackName": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
             "artistName": "Jason Derulo",
-            "albumName": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)"
+            "albumName": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+            "trackUri": "spotify:track:6kex4EBAj0WHXDKZMEJaaF"
           },
           "episode": null,
           "localTrack": null
@@ -51,7 +616,8 @@
           "track": {
             "trackName": "It Girl",
             "artistName": "Jason Derulo",
-            "albumName": "Future History"
+            "albumName": "Future History",
+            "trackUri": "spotify:track:4fINc8dnfcz7AdhFYVA4i7"
           },
           "episode": null,
           "localTrack": null
@@ -60,7 +626,8 @@
           "track": {
             "trackName": "Tip Toe (feat. French Montana)",
             "artistName": "Jason Derulo",
-            "albumName": "Tip Toe (feat. French Montana)"
+            "albumName": "Tip Toe (feat. French Montana)",
+            "trackUri": "spotify:track:2z4pcBLQXF2BXKFvd0BuB6"
           },
           "episode": null,
           "localTrack": null
@@ -69,7 +636,8 @@
           "track": {
             "trackName": "Want to Want Me",
             "artistName": "Jason Derulo",
-            "albumName": "Everything Is 4"
+            "albumName": "Everything Is 4",
+            "trackUri": "spotify:track:6zKrj4SomgfbvsfuTAuElE"
           },
           "episode": null,
           "localTrack": null
@@ -78,7 +646,8 @@
           "track": {
             "trackName": "Talk Dirty (feat. 2 Chainz)",
             "artistName": "Jason Derulo",
-            "albumName": "Tattoos"
+            "albumName": "Tattoos",
+            "trackUri": "spotify:track:5l3CML2OnzfNs5RfVgbcLt"
           },
           "episode": null,
           "localTrack": null
@@ -87,7 +656,8 @@
           "track": {
             "trackName": "Goodbye (feat. Nicki Minaj & Willy William)",
             "artistName": "Jason Derulo",
-            "albumName": "Goodbye (feat. Nicki Minaj & Willy William)"
+            "albumName": "Goodbye (feat. Nicki Minaj & Willy William)",
+            "trackUri": "spotify:track:5Xn4IyTtW6FUGIUyWjbUHG"
           },
           "episode": null,
           "localTrack": null
@@ -96,7 +666,8 @@
           "track": {
             "trackName": "Talk with Your Body",
             "artistName": "Jason Derulo",
-            "albumName": "2Sides (Side 1)"
+            "albumName": "2Sides (Side 1)",
+            "trackUri": "spotify:track:7yPcAO4F6ozQi6lTi3n3Ai"
           },
           "episode": null,
           "localTrack": null
@@ -105,7 +676,8 @@
           "track": {
             "trackName": "If It Ain't Love",
             "artistName": "Jason Derulo",
-            "albumName": "If It Ain't Love"
+            "albumName": "If It Ain't Love",
+            "trackUri": "spotify:track:5YHR8wBR5jXfGtP766NiAT"
           },
           "episode": null,
           "localTrack": null
@@ -114,7 +686,8 @@
           "track": {
             "trackName": "Mamacita (feat. Farruko)",
             "artistName": "Jason Derulo",
-            "albumName": "Mamacita (feat. Farruko)"
+            "albumName": "Mamacita (feat. Farruko)",
+            "trackUri": "spotify:track:7iwhbx1YQcQ675DTj6AmAb"
           },
           "episode": null,
           "localTrack": null
@@ -123,7 +696,8 @@
           "track": {
             "trackName": "Trumpets",
             "artistName": "Jason Derulo",
-            "albumName": "Tattoos"
+            "albumName": "Tattoos",
+            "trackUri": "spotify:track:6jizk5lOUnfpaZXYMdfeC6"
           },
           "episode": null,
           "localTrack": null
@@ -132,7 +706,8 @@
           "track": {
             "trackName": "Bubblegum (feat. Tyga)",
             "artistName": "Jason Derulo",
-            "albumName": "Tattoos"
+            "albumName": "Tattoos",
+            "trackUri": "spotify:track:1EujTZPE2yBYbbwu2vWXvr"
           },
           "episode": null,
           "localTrack": null
@@ -141,7 +716,8 @@
           "track": {
             "trackName": "Let’s SHUT UP & DANCE",
             "artistName": "LAY",
-            "albumName": "Let’s SHUT UP & DANCE"
+            "albumName": "Let’s SHUT UP & DANCE",
+            "trackUri": "spotify:track:2SHsNfrHj4iDOVJuDwclPd"
           },
           "episode": null,
           "localTrack": null
@@ -150,7 +726,8 @@
           "track": {
             "trackName": "Too Hot",
             "artistName": "Jason Derulo",
-            "albumName": "Too Hot"
+            "albumName": "Too Hot",
+            "trackUri": "spotify:track:29QrzCnJ8r5aPamLBADZLx"
           },
           "episode": null,
           "localTrack": null
@@ -159,7 +736,8 @@
           "track": {
             "trackName": "Savage Love (Laxed - Siren Beat)",
             "artistName": "Jawsh 685",
-            "albumName": "Savage Love (Laxed - Siren Beat)"
+            "albumName": "Savage Love (Laxed - Siren Beat)",
+            "trackUri": "spotify:track:1xQ6trAsedVPCdbtDAmk0c"
           },
           "episode": null,
           "localTrack": null
@@ -168,7 +746,8 @@
           "track": {
             "trackName": "Coño",
             "artistName": "Jason Derulo",
-            "albumName": "Coño"
+            "albumName": "Coño",
+            "trackUri": "spotify:track:5DV4ZSCqbFv74ui3ZhimXo"
           },
           "episode": null,
           "localTrack": null
@@ -177,7 +756,8 @@
           "track": {
             "trackName": "Take You Dancing",
             "artistName": "Jason Derulo",
-            "albumName": "Take You Dancing"
+            "albumName": "Take You Dancing",
+            "trackUri": "spotify:track:59qrUpoplZxbIZxk6X0Bm3"
           },
           "episode": null,
           "localTrack": null
@@ -186,7 +766,8 @@
           "track": {
             "trackName": "Don't Cry For Me (with Jason Derulo) - Acoustic",
             "artistName": "Alok",
-            "albumName": "Don't Cry For Me (with Jason Derulo)"
+            "albumName": "Don't Cry For Me (with Jason Derulo)",
+            "trackUri": "spotify:track:2tUQhON1H3N4f6fwASEuyB"
           },
           "episode": null,
           "localTrack": null
@@ -195,7 +776,8 @@
           "track": {
             "trackName": "Don't Cry For Me (with Jason Derulo)",
             "artistName": "Alok",
-            "albumName": "Don't Cry For Me (with Jason Derulo)"
+            "albumName": "Don't Cry For Me (with Jason Derulo)",
+            "trackUri": "spotify:track:4chrflBZTqRjZhOTp7zaXx"
           },
           "episode": null,
           "localTrack": null
@@ -204,7 +786,18 @@
           "track": {
             "trackName": "If I'm Lucky",
             "artistName": "Jason Derulo",
-            "albumName": "If I'm Lucky"
+            "albumName": "If I'm Lucky",
+            "trackUri": "spotify:track:6eUncuJutsFi9BGO1JaBHh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Not War (The Tampa Beat)",
+            "artistName": "Jason Derulo",
+            "albumName": "Love Not War (The Tampa Beat)",
+            "trackUri": "spotify:track:4Lt6GXGzYsa1tgkv3nGSTm"
           },
           "episode": null,
           "localTrack": null
@@ -215,13 +808,14 @@
     },
     {
       "name": "Cringe",
-      "lastModifiedDate": "2020-06-23",
+      "lastModifiedDate": "2020-11-27",
       "items": [
         {
           "track": {
             "trackName": "The Reason Why",
             "artistName": "JP Cooper",
-            "albumName": "The Reason Why"
+            "albumName": "The Reason Why",
+            "trackUri": "spotify:track:5j5dRrqFsVK47Ani6KfTFA"
           },
           "episode": null,
           "localTrack": null
@@ -230,7 +824,8 @@
           "track": {
             "trackName": "Haaye Oye (feat. Ash King)",
             "artistName": "QARAN",
-            "albumName": "Haaye Oye (feat. Ash King)"
+            "albumName": "Haaye Oye (feat. Ash King)",
+            "trackUri": "spotify:track:0oukMLKedsqQ3ltnI2daRO"
           },
           "episode": null,
           "localTrack": null
@@ -239,7 +834,8 @@
           "track": {
             "trackName": "Hula Hoop",
             "artistName": "OMI",
-            "albumName": "Me 4 U"
+            "albumName": "Me 4 U",
+            "trackUri": "spotify:track:0wsXdby1T3PWLauIkGUZzg"
           },
           "episode": null,
           "localTrack": null
@@ -248,7 +844,8 @@
           "track": {
             "trackName": "Masterpiece",
             "artistName": "OMI",
-            "albumName": "Masterpiece"
+            "albumName": "Masterpiece",
+            "trackUri": "spotify:track:2fCCoGXcA2j9fFhvfRqfVQ"
           },
           "episode": null,
           "localTrack": null
@@ -257,7 +854,8 @@
           "track": {
             "trackName": "Hola (feat. Maluma)",
             "artistName": "Flo Rida",
-            "albumName": "Hola (feat. Maluma)"
+            "albumName": "Hola (feat. Maluma)",
+            "trackUri": "spotify:track:6ayTAnEwP3Yo4DOjLsN5r2"
           },
           "episode": null,
           "localTrack": null
@@ -266,7 +864,8 @@
           "track": {
             "trackName": "Perfect",
             "artistName": "One Direction",
-            "albumName": "Made In The A.M."
+            "albumName": "Made In The A.M.",
+            "trackUri": "spotify:track:3NLnwwAQbbFKcEcV8hDItk"
           },
           "episode": null,
           "localTrack": null
@@ -275,7 +874,8 @@
           "track": {
             "trackName": "On Me (feat. Ava Max)",
             "artistName": "Thomas Rhett",
-            "albumName": "SCOOB! The Album"
+            "albumName": "SCOOB! The Album",
+            "trackUri": "spotify:track:7k6tAZp4m93oswrPqSfBbc"
           },
           "episode": null,
           "localTrack": null
@@ -284,7 +884,8 @@
           "track": {
             "trackName": "Unforgettable",
             "artistName": "Thomas Rhett",
-            "albumName": "Life Changes"
+            "albumName": "Life Changes",
+            "trackUri": "spotify:track:30MM5jWpUmOxtTNd9Ey5LZ"
           },
           "episode": null,
           "localTrack": null
@@ -293,7 +894,8 @@
           "track": {
             "trackName": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
             "artistName": "OMI",
-            "albumName": "Cheerleader"
+            "albumName": "Cheerleader",
+            "trackUri": "spotify:track:6fQcqEcXfnY0L6VwS0c3gT"
           },
           "episode": null,
           "localTrack": null
@@ -302,7 +904,8 @@
           "track": {
             "trackName": "Bedroom Floor",
             "artistName": "Liam Payne",
-            "albumName": "LP1"
+            "albumName": "LP1",
+            "trackUri": "spotify:track:6IuVmxZtP3h5wvErFpDcVR"
           },
           "episode": null,
           "localTrack": null
@@ -311,7 +914,8 @@
           "track": {
             "trackName": "Narcissist (feat. The 1975)",
             "artistName": "No Rome",
-            "albumName": "RIP Indo Hisashi"
+            "albumName": "RIP Indo Hisashi",
+            "trackUri": "spotify:track:4qjLvvBh5ZeKEPyShKRf06"
           },
           "episode": null,
           "localTrack": null
@@ -320,7 +924,8 @@
           "track": {
             "trackName": "Left to Right",
             "artistName": "Marteen",
-            "albumName": "NOTHANKYOU."
+            "albumName": "NOTHANKYOU.",
+            "trackUri": "spotify:track:6J6e0hfRgT1sh3MBEdzIzD"
           },
           "episode": null,
           "localTrack": null
@@ -329,7 +934,38 @@
           "track": {
             "trackName": "Sucker for You",
             "artistName": "Matt Terry",
-            "albumName": "Sucker for You"
+            "albumName": "Sucker for You",
+            "trackUri": "spotify:track:5H9H0i7UCmRDCZRHldbmhN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rose Coloured Glasses",
+            "artistName": "Lvly",
+            "albumName": "Just Lvly",
+            "trackUri": "spotify:track:73yXwQg9RzpkoTr2vIvMIh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roller Coaster",
+            "artistName": "OMI",
+            "albumName": "Roller Coaster",
+            "trackUri": "spotify:track:6XnikZPkb059iYTuCjZt1X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Like A Riddle (feat. Hearts & Colors, Adam Trigger)",
+            "artistName": "Felix Jaehn",
+            "albumName": "I",
+            "trackUri": "spotify:track:2jGOQqWZKjy6A64kWIcdIs"
           },
           "episode": null,
           "localTrack": null
@@ -346,7 +982,8 @@
           "track": {
             "trackName": "Him & I (with Halsey)",
             "artistName": "G-Eazy",
-            "albumName": "The Beautiful & Damned"
+            "albumName": "The Beautiful & Damned",
+            "trackUri": "spotify:track:5k38wzpLb15YgncyWdTZE4"
           },
           "episode": null,
           "localTrack": null
@@ -355,7 +992,8 @@
           "track": {
             "trackName": "Colors",
             "artistName": "Halsey",
-            "albumName": "BADLANDS"
+            "albumName": "BADLANDS",
+            "trackUri": "spotify:track:1TnUURhehaoMWKAqQtirm6"
           },
           "episode": null,
           "localTrack": null
@@ -364,7 +1002,8 @@
           "track": {
             "trackName": "Bad At Love",
             "artistName": "Halsey",
-            "albumName": "hopeless fountain kingdom"
+            "albumName": "hopeless fountain kingdom",
+            "trackUri": "spotify:track:7y9iMe8SOB6z3NoHE2OfXl"
           },
           "episode": null,
           "localTrack": null
@@ -373,7 +1012,8 @@
           "track": {
             "trackName": "Roman Holiday",
             "artistName": "Halsey",
-            "albumName": "BADLANDS"
+            "albumName": "BADLANDS",
+            "trackUri": "spotify:track:6s8PRmROPJHlqZmu9Bbviz"
           },
           "episode": null,
           "localTrack": null
@@ -382,7 +1022,8 @@
           "track": {
             "trackName": "Castle",
             "artistName": "Halsey",
-            "albumName": "BADLANDS"
+            "albumName": "BADLANDS",
+            "trackUri": "spotify:track:16w8ZGVSjI4TlTLV8VimBY"
           },
           "episode": null,
           "localTrack": null
@@ -391,7 +1032,8 @@
           "track": {
             "trackName": "Boy With Luv (feat. Halsey)",
             "artistName": "BTS",
-            "albumName": "MAP OF THE SOUL : PERSONA"
+            "albumName": "MAP OF THE SOUL : PERSONA",
+            "trackUri": "spotify:track:5KawlOMHjWeUjQtnuRs22c"
           },
           "episode": null,
           "localTrack": null
@@ -400,7 +1042,8 @@
           "track": {
             "trackName": "Now Or Never",
             "artistName": "Halsey",
-            "albumName": "hopeless fountain kingdom"
+            "albumName": "hopeless fountain kingdom",
+            "trackUri": "spotify:track:7i2DJ88J7jQ8K7zqFX2fW8"
           },
           "episode": null,
           "localTrack": null
@@ -409,7 +1052,8 @@
           "track": {
             "trackName": "Closer",
             "artistName": "The Chainsmokers",
-            "albumName": "Closer"
+            "albumName": "Closer",
+            "trackUri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw"
           },
           "episode": null,
           "localTrack": null
@@ -418,7 +1062,8 @@
           "track": {
             "trackName": "Gasoline",
             "artistName": "Halsey",
-            "albumName": "BADLANDS"
+            "albumName": "BADLANDS",
+            "trackUri": "spotify:track:2IO7yf562c1zLzpanal1DT"
           },
           "episode": null,
           "localTrack": null
@@ -427,7 +1072,8 @@
           "track": {
             "trackName": "clementine",
             "artistName": "Halsey",
-            "albumName": "clementine"
+            "albumName": "clementine",
+            "trackUri": "spotify:track:7ozvM98YyrdyOBh1lItVHc"
           },
           "episode": null,
           "localTrack": null
@@ -436,7 +1082,8 @@
           "track": {
             "trackName": "Eastside (with Halsey & Khalid)",
             "artistName": "benny blanco",
-            "albumName": "Eastside (with Halsey & Khalid)"
+            "albumName": "Eastside (with Halsey & Khalid)",
+            "trackUri": "spotify:track:0d2iYfpKoM0QCKvcLCkBao"
           },
           "episode": null,
           "localTrack": null
@@ -445,7 +1092,8 @@
           "track": {
             "trackName": "Graveyard",
             "artistName": "Halsey",
-            "albumName": "Graveyard"
+            "albumName": "Graveyard",
+            "trackUri": "spotify:track:6V9fHiv84WlVTg7CSnIVY2"
           },
           "episode": null,
           "localTrack": null
@@ -454,7 +1102,8 @@
           "track": {
             "trackName": "Without Me",
             "artistName": "Halsey",
-            "albumName": "Without Me"
+            "albumName": "Without Me",
+            "trackUri": "spotify:track:5p7ujcrUXASCNwRaWNHR1C"
           },
           "episode": null,
           "localTrack": null
@@ -463,7 +1112,8 @@
           "track": {
             "trackName": "Sorry",
             "artistName": "Halsey",
-            "albumName": "hopeless fountain kingdom"
+            "albumName": "hopeless fountain kingdom",
+            "trackUri": "spotify:track:44n97yHySt0Z9rqPaXgjCK"
           },
           "episode": null,
           "localTrack": null
@@ -472,7 +1122,8 @@
           "track": {
             "trackName": "You should be sad",
             "artistName": "Halsey",
-            "albumName": "You should be sad"
+            "albumName": "You should be sad",
+            "trackUri": "spotify:track:2usxQITOSDqvkYiI0oIwao"
           },
           "episode": null,
           "localTrack": null
@@ -489,7 +1140,8 @@
           "track": {
             "trackName": "Tears In Heaven",
             "artistName": "Boyce Avenue",
-            "albumName": "Cover Sessions, Vol. 3"
+            "albumName": "Cover Sessions, Vol. 3",
+            "trackUri": "spotify:track:1emx944EiuTphS9qv5mslc"
           },
           "episode": null,
           "localTrack": null
@@ -498,7 +1150,8 @@
           "track": {
             "trackName": "Slow Dancing in a Burning Room",
             "artistName": "John Mayer",
-            "albumName": "Continuum"
+            "albumName": "Continuum",
+            "trackUri": "spotify:track:2jdAk8ATWIL3dwT47XpRfu"
           },
           "episode": null,
           "localTrack": null
@@ -507,7 +1160,8 @@
           "track": {
             "trackName": "Shape Of My Heart",
             "artistName": "Sting",
-            "albumName": "Ten Summoner's Tales"
+            "albumName": "Ten Summoner's Tales",
+            "trackUri": "spotify:track:6CKoWCWAqEVWVjpeoJXyNH"
           },
           "episode": null,
           "localTrack": null
@@ -516,7 +1170,8 @@
           "track": {
             "trackName": "Take Me Home, Country Roads",
             "artistName": "John Denver",
-            "albumName": "Poems, Prayers and Promises"
+            "albumName": "Poems, Prayers and Promises",
+            "trackUri": "spotify:track:1YYhDizHx7PnDhAhko6cDS"
           },
           "episode": null,
           "localTrack": null
@@ -525,7 +1180,8 @@
           "track": {
             "trackName": "On A Day Like Today",
             "artistName": "Bryan Adams",
-            "albumName": "On A Day Like Today"
+            "albumName": "On A Day Like Today",
+            "trackUri": "spotify:track:1g2tPIP5isX44SNeDeqLsz"
           },
           "episode": null,
           "localTrack": null
@@ -534,7 +1190,8 @@
           "track": {
             "trackName": "Summer Of '69 - MTV Unplugged Version",
             "artistName": "Bryan Adams",
-            "albumName": "MTV Unplugged"
+            "albumName": "MTV Unplugged",
+            "trackUri": "spotify:track:1OQpTtcuAauAqp5Okxtbs2"
           },
           "episode": null,
           "localTrack": null
@@ -543,7 +1200,8 @@
           "track": {
             "trackName": "Dust in the Wind",
             "artistName": "Kansas",
-            "albumName": "Point Of Know Return"
+            "albumName": "Point Of Know Return",
+            "trackUri": "spotify:track:6zeE5tKyr8Nu882DQhhSQI"
           },
           "episode": null,
           "localTrack": null
@@ -560,7 +1218,8 @@
           "track": {
             "trackName": "Vertigo",
             "artistName": "Khalid",
-            "albumName": "Suncity"
+            "albumName": "Suncity",
+            "trackUri": "spotify:track:7stcuQtnHL7C6XdPvpwywv"
           },
           "episode": null,
           "localTrack": null
@@ -569,7 +1228,8 @@
           "track": {
             "trackName": "Free Spirit",
             "artistName": "Khalid",
-            "albumName": "Free Spirit"
+            "albumName": "Free Spirit",
+            "trackUri": "spotify:track:2kAIpGWnlFLQh48iut6Zzq"
           },
           "episode": null,
           "localTrack": null
@@ -578,7 +1238,8 @@
           "track": {
             "trackName": "Saturday Nights",
             "artistName": "Khalid",
-            "albumName": "Free Spirit"
+            "albumName": "Free Spirit",
+            "trackUri": "spotify:track:1fHRzxbts9A8J1ergDe7Kz"
           },
           "episode": null,
           "localTrack": null
@@ -587,7 +1248,8 @@
           "track": {
             "trackName": "Saansein",
             "artistName": "Prateek Kuhad",
-            "albumName": "Karwaan"
+            "albumName": "Karwaan",
+            "trackUri": "spotify:track:6l1VsKiMyaUWElFrM1rsuu"
           },
           "episode": null,
           "localTrack": null
@@ -598,13 +1260,14 @@
     },
     {
       "name": "Beats/EDM",
-      "lastModifiedDate": "2020-09-26",
+      "lastModifiedDate": "2021-04-26",
       "items": [
         {
           "track": {
             "trackName": "Khalifa (From \"Lekar Hum Deewana Dil\")",
             "artistName": "A.R. Rahman",
-            "albumName": "Lekar Hum Deewana Dil (Original Motion Picture Soundtrack)"
+            "albumName": "Lekar Hum Deewana Dil (Original Motion Picture Soundtrack)",
+            "trackUri": "spotify:track:1BwlamEsFRvFgnXAZNJFQA"
           },
           "episode": null,
           "localTrack": null
@@ -613,7 +1276,8 @@
           "track": {
             "trackName": "Lalla Lalla Lori",
             "artistName": "Vishal Dadlani",
-            "albumName": "Welcome 2 Karachi"
+            "albumName": "Welcome 2 Karachi",
+            "trackUri": "spotify:track:22WubMzx5mkCAHZHvInkpH"
           },
           "episode": null,
           "localTrack": null
@@ -622,7 +1286,8 @@
           "track": {
             "trackName": "All Around The World (La La La)",
             "artistName": "R3HAB",
-            "albumName": "All Around The World (La La La)"
+            "albumName": "All Around The World (La La La)",
+            "trackUri": "spotify:track:02itaCXOdC54J0ISjqqFAp"
           },
           "episode": null,
           "localTrack": null
@@ -631,7 +1296,8 @@
           "track": {
             "trackName": "Show Me Love - EDX Remix / Radio Edit",
             "artistName": "Sam Feldt",
-            "albumName": "Show Me Love"
+            "albumName": "Show Me Love",
+            "trackUri": "spotify:track:6PkzXU8dlwtfrwyTlUyVnv"
           },
           "episode": null,
           "localTrack": null
@@ -640,7 +1306,8 @@
           "track": {
             "trackName": "Give Me Your Hand (Best Song Ever)",
             "artistName": "The Ready Set",
-            "albumName": "The Bad & The Better"
+            "albumName": "The Bad & The Better",
+            "trackUri": "spotify:track:4499ZyhJG8CSNakFvUlQcz"
           },
           "episode": null,
           "localTrack": null
@@ -649,7 +1316,8 @@
           "track": {
             "trackName": "You Don't Know Me",
             "artistName": "Kevin Silvester",
-            "albumName": "You Don't Know Me"
+            "albumName": "You Don't Know Me",
+            "trackUri": "spotify:track:7shgdEooY9RdGuMM71SRax"
           },
           "episode": null,
           "localTrack": null
@@ -658,7 +1326,8 @@
           "track": {
             "trackName": "On Your Mind",
             "artistName": "Kevin Silvester",
-            "albumName": "On Your Mind"
+            "albumName": "On Your Mind",
+            "trackUri": "spotify:track:51m9UJSULSzzpiJ1pTitgS"
           },
           "episode": null,
           "localTrack": null
@@ -667,7 +1336,8 @@
           "track": {
             "trackName": "Your Side Of The Bed (feat. Eric Nam)",
             "artistName": "Loote",
-            "albumName": "Your Side Of The Bed"
+            "albumName": "Your Side Of The Bed",
+            "trackUri": "spotify:track:3dz63QjQVZy7RYPzx6l3JU"
           },
           "episode": null,
           "localTrack": null
@@ -676,7 +1346,8 @@
           "track": {
             "trackName": "Roots",
             "artistName": "Valerie Broussard",
-            "albumName": "Roots"
+            "albumName": "Roots",
+            "trackUri": "spotify:track:23FHa9lYnG6Dr8OzombPkS"
           },
           "episode": null,
           "localTrack": null
@@ -685,7 +1356,8 @@
           "track": {
             "trackName": "Closer",
             "artistName": "The Chainsmokers",
-            "albumName": "Closer"
+            "albumName": "Closer",
+            "trackUri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw"
           },
           "episode": null,
           "localTrack": null
@@ -694,7 +1366,8 @@
           "track": {
             "trackName": "The Ocean (feat. Shy Martin)",
             "artistName": "Mike Perry",
-            "albumName": "The Ocean (feat. Shy Martin)"
+            "albumName": "The Ocean (feat. Shy Martin)",
+            "trackUri": "spotify:track:2CPqh63wRVscbceKcPxwvv"
           },
           "episode": null,
           "localTrack": null
@@ -703,7 +1376,8 @@
           "track": {
             "trackName": "The Middle",
             "artistName": "Zedd",
-            "albumName": "The Middle"
+            "albumName": "The Middle",
+            "trackUri": "spotify:track:09IStsImFySgyp0pIQdqAc"
           },
           "episode": null,
           "localTrack": null
@@ -712,7 +1386,8 @@
           "track": {
             "trackName": "Fire In My Soul",
             "artistName": "Oliver Heldens",
-            "albumName": "Fire In My Soul"
+            "albumName": "Fire In My Soul",
+            "trackUri": "spotify:track:0M0FvSNRZmDz0Z769rewlI"
           },
           "episode": null,
           "localTrack": null
@@ -721,7 +1396,8 @@
           "track": {
             "trackName": "Takeaway (feat. Lennon Stella)",
             "artistName": "The Chainsmokers",
-            "albumName": "World War Joy...Takeaway"
+            "albumName": "World War Joy...Takeaway",
+            "trackUri": "spotify:track:6wo37KVqFJhtuxPTpLCcfe"
           },
           "episode": null,
           "localTrack": null
@@ -730,7 +1406,8 @@
           "track": {
             "trackName": "Roses (feat. ROZES)",
             "artistName": "The Chainsmokers",
-            "albumName": "Bouquet"
+            "albumName": "Bouquet",
+            "trackUri": "spotify:track:3FWPoYBDserKdzcattMFGa"
           },
           "episode": null,
           "localTrack": null
@@ -739,7 +1416,8 @@
           "track": {
             "trackName": "Collide",
             "artistName": "Jake Miller",
-            "albumName": "Us Against Them"
+            "albumName": "Us Against Them",
+            "trackUri": "spotify:track:4TyroqnSj0YkpZ9rf2Skq7"
           },
           "episode": null,
           "localTrack": null
@@ -748,7 +1426,8 @@
           "track": {
             "trackName": "Can't Help Myself",
             "artistName": "Jake Miller",
-            "albumName": "2:00am in LA"
+            "albumName": "2:00am in LA",
+            "trackUri": "spotify:track:4G6A1vrOJC6pUwBhxfoSQS"
           },
           "episode": null,
           "localTrack": null
@@ -757,7 +1436,8 @@
           "track": {
             "trackName": "Rumors",
             "artistName": "NEFFEX",
-            "albumName": "Rumors"
+            "albumName": "Rumors",
+            "trackUri": "spotify:track:7wOqBOryVGD3nqDUihDSwL"
           },
           "episode": null,
           "localTrack": null
@@ -766,7 +1446,8 @@
           "track": {
             "trackName": "Instagram",
             "artistName": "Dimitri Vegas & Like Mike",
-            "albumName": "Instagram"
+            "albumName": "Instagram",
+            "trackUri": "spotify:track:0U6bQIAh6MCGo1xjbIIx2S"
           },
           "episode": null,
           "localTrack": null
@@ -775,7 +1456,8 @@
           "track": {
             "trackName": "Solo Dance",
             "artistName": "Martin Jensen",
-            "albumName": "Solo Dance"
+            "albumName": "Solo Dance",
+            "trackUri": "spotify:track:10AsRVRdU07cMAFHeGYO3c"
           },
           "episode": null,
           "localTrack": null
@@ -784,7 +1466,8 @@
           "track": {
             "trackName": "Jealous - Remix",
             "artistName": "Nick Jonas",
-            "albumName": "Nick Jonas X2"
+            "albumName": "Nick Jonas X2",
+            "trackUri": "spotify:track:5NQJnRpJHRaupdegphntQT"
           },
           "episode": null,
           "localTrack": null
@@ -793,7 +1476,8 @@
           "track": {
             "trackName": "Get Wet - Radio Edit by Fly Records",
             "artistName": "Fly Project",
-            "albumName": "Get Wet"
+            "albumName": "Get Wet",
+            "trackUri": "spotify:track:3JfWag2CDEnst8uzV6nxvT"
           },
           "episode": null,
           "localTrack": null
@@ -802,7 +1486,8 @@
           "track": {
             "trackName": "Let It Be Me",
             "artistName": "Steve Aoki",
-            "albumName": "Let It Be Me"
+            "albumName": "Let It Be Me",
+            "trackUri": "spotify:track:1LjxmkW3xRQP2HzswhYyyc"
           },
           "episode": null,
           "localTrack": null
@@ -811,7 +1496,8 @@
           "track": {
             "trackName": "Dance Like We're Making Love",
             "artistName": "Ciara",
-            "albumName": "Jackie"
+            "albumName": "Jackie",
+            "trackUri": "spotify:track:3biFdxByHgUhTbp2dG89zK"
           },
           "episode": null,
           "localTrack": null
@@ -820,7 +1506,8 @@
           "track": {
             "trackName": "Brave",
             "artistName": "Don Diablo",
-            "albumName": "Brave"
+            "albumName": "Brave",
+            "trackUri": "spotify:track:0GRoERSBBky3YgdKW2w2Vc"
           },
           "episode": null,
           "localTrack": null
@@ -829,7 +1516,8 @@
           "track": {
             "trackName": "All The Lies",
             "artistName": "Alok",
-            "albumName": "All The Lies"
+            "albumName": "All The Lies",
+            "trackUri": "spotify:track:6PqUdUGS4h5aGY7YyEGXr8"
           },
           "episode": null,
           "localTrack": null
@@ -838,7 +1526,8 @@
           "track": {
             "trackName": "I Still Remember (R3HAB Remix)",
             "artistName": "Caroline Romano",
-            "albumName": "I Still Remember (R3HAB Remix)"
+            "albumName": "I Still Remember (R3HAB Remix)",
+            "trackUri": "spotify:track:30eirMgaGW0OpA3Yi8U4bL"
           },
           "episode": null,
           "localTrack": null
@@ -847,7 +1536,8 @@
           "track": {
             "trackName": "I Want You to Freak",
             "artistName": "Rak-Su",
-            "albumName": "I Want You to Freak"
+            "albumName": "I Want You to Freak",
+            "trackUri": "spotify:track:62hK2OalNLhutnAShdq8nS"
           },
           "episode": null,
           "localTrack": null
@@ -856,7 +1546,8 @@
           "track": {
             "trackName": "Post Malone (feat. RANI)",
             "artistName": "Sam Feldt",
-            "albumName": "Post Malone (feat. RANI)"
+            "albumName": "Post Malone (feat. RANI)",
+            "trackUri": "spotify:track:36orMWv2PgvnzXsd5CJ0yL"
           },
           "episode": null,
           "localTrack": null
@@ -865,7 +1556,8 @@
           "track": {
             "trackName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)",
             "artistName": "Matoma",
-            "albumName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)"
+            "albumName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)",
+            "trackUri": "spotify:track:2ak79ho44RiDi9DFrqYgfq"
           },
           "episode": null,
           "localTrack": null
@@ -874,7 +1566,8 @@
           "track": {
             "trackName": "#thatPOWER",
             "artistName": "will.i.am",
-            "albumName": "#willpower"
+            "albumName": "#willpower",
+            "trackUri": "spotify:track:01TuObJVd7owWchVRuQbQw"
           },
           "episode": null,
           "localTrack": null
@@ -883,7 +1576,248 @@
           "track": {
             "trackName": "Dynamite - EDM Remix",
             "artistName": "BTS",
-            "albumName": "Dynamite (Extended)"
+            "albumName": "Dynamite (Extended)",
+            "trackUri": "spotify:track:1HZ5LJMCzClg2pdomCnEPw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "At Least I Had Fun",
+            "artistName": "Martin Jensen",
+            "albumName": "At Least I Had Fun",
+            "trackUri": "spotify:track:7jqXDgGWkV4w2ctdb2g59o"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Too Much (feat. Usher)",
+            "artistName": "Marshmello",
+            "albumName": "Too Much (feat. Usher)",
+            "trackUri": "spotify:track:39umHdGKfpnjY4TFtnoQ51"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Inside Out (feat. Griff)",
+            "artistName": "Zedd",
+            "albumName": "Inside Out (feat. Griff)",
+            "trackUri": "spotify:track:6IiCb4PCrDgqLuDWgHhFi7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Instant Moments",
+            "artistName": "Firebeatz",
+            "albumName": "Instant Moments",
+            "trackUri": "spotify:track:5vcWofxLx9TMEpmGsJHiMT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Post Malone (feat. RANI) - Joe Stone Remix",
+            "artistName": "Sam Feldt",
+            "albumName": "Post Malone (feat. RANI)",
+            "trackUri": "spotify:track:43XVdVydjpHCCGMrsjc785"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sleep Deprived",
+            "artistName": "Lvly",
+            "albumName": "Just Lvly",
+            "trackUri": "spotify:track:4DnKcKgI62poB2usPeVdkf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Girl in the Mirror",
+            "artistName": "Bebe Rexha",
+            "albumName": "UglyDolls",
+            "trackUri": "spotify:track:2UcK3xgGDxPSyKzKqyPv0s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)",
+            "artistName": "Matoma",
+            "albumName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)",
+            "trackUri": "spotify:track:3EO4XZNWf9CuOqYLsm32OJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Beside You (feat. Georgia Ku)",
+            "artistName": "Matoma",
+            "albumName": "Beside You (feat. Georgia Ku)",
+            "trackUri": "spotify:track:6Tdy6tOHVEyBmlObZpGJJc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rumors",
+            "artistName": "Jake Miller",
+            "albumName": "Rumors",
+            "trackUri": "spotify:track:6llBOJ6HLHvlVnKeZqhXk8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Zurna",
+            "artistName": "Blasterjaxx",
+            "albumName": "Zurna",
+            "trackUri": "spotify:track:5H6af60Y0yBIEzjfbAXLBq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Like A Riddle (feat. Hearts & Colors, Adam Trigger)",
+            "artistName": "Felix Jaehn",
+            "albumName": "I",
+            "trackUri": "spotify:track:2jGOQqWZKjy6A64kWIcdIs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bodytalk (STFU)",
+            "artistName": "Blasterjaxx",
+            "albumName": "Bodytalk (STFU)",
+            "trackUri": "spotify:track:2vIkEXi009Hxc1K3oMsLqR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Head & My Heart - Jonas Blue Remix",
+            "artistName": "Ava Max",
+            "albumName": "My Head & My Heart",
+            "trackUri": "spotify:track:7x74XLYJqptDCmY4y3FaVh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Going Like",
+            "artistName": "Hallman",
+            "albumName": "I'm Going Like",
+            "trackUri": "spotify:track:4o7zeDjEoPALOH9ZN483Oj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Black Magic",
+            "artistName": "Jonasu",
+            "albumName": "Black Magic",
+            "trackUri": "spotify:track:7zx1i0jGcFwMBurajgKlO7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Freak - Joe Stone 2K18 Edit",
+            "artistName": "R3HAB",
+            "albumName": "Freak",
+            "trackUri": "spotify:track:2xbRwcylUnX881qaqf5ZZJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let Me Love You - DAZZ Remix",
+            "artistName": "CALVO",
+            "albumName": "Let Me Love You",
+            "trackUri": "spotify:track:0HJ7K7uauPS05UqWUkIxGM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "With You",
+            "artistName": "Kaskade",
+            "albumName": "With You",
+            "trackUri": "spotify:track:1xK7enJZVdv37fnnxoZlPq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Luv U (with R3HAB)",
+            "artistName": "Sofia Carson",
+            "albumName": "I Luv U (with R3HAB)",
+            "trackUri": "spotify:track:3HTySujYyWa1nZdfiZVZs0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sign",
+            "artistName": "DEAMN",
+            "albumName": "Save Me",
+            "trackUri": "spotify:track:4ZVSSE2JUJwsyTukDwjoT6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ride It",
+            "artistName": "Regard",
+            "albumName": "Ride It",
+            "trackUri": "spotify:track:2tnVG71enUj33Ic2nFN6kZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mr. Saxobeat",
+            "artistName": "Klaas",
+            "albumName": "Mr. Saxobeat",
+            "trackUri": "spotify:track:2dmZy75CTSv6BFo7IbO0eK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Close Your Eyes",
+            "artistName": "Felix Jaehn",
+            "albumName": "Close Your Eyes",
+            "trackUri": "spotify:track:7N06jo3EnV792VFaG8vuW6"
           },
           "episode": null,
           "localTrack": null
@@ -894,13 +1828,14 @@
     },
     {
       "name": "Random",
-      "lastModifiedDate": "2020-09-04",
+      "lastModifiedDate": "2021-04-26",
       "items": [
         {
           "track": {
             "trackName": "The Ocean (feat. Shy Martin)",
             "artistName": "Mike Perry",
-            "albumName": "The Ocean (feat. Shy Martin)"
+            "albumName": "The Ocean (feat. Shy Martin)",
+            "trackUri": "spotify:track:2CPqh63wRVscbceKcPxwvv"
           },
           "episode": null,
           "localTrack": null
@@ -909,7 +1844,8 @@
           "track": {
             "trackName": "The Middle",
             "artistName": "Zedd",
-            "albumName": "The Middle"
+            "albumName": "The Middle",
+            "trackUri": "spotify:track:09IStsImFySgyp0pIQdqAc"
           },
           "episode": null,
           "localTrack": null
@@ -918,7 +1854,8 @@
           "track": {
             "trackName": "Fast Car",
             "artistName": "Jonas Blue",
-            "albumName": "Blue"
+            "albumName": "Blue",
+            "trackUri": "spotify:track:3Uoe0ZdEy9lLrXj1HhXx9H"
           },
           "episode": null,
           "localTrack": null
@@ -927,7 +1864,8 @@
           "track": {
             "trackName": "Closer",
             "artistName": "The Chainsmokers",
-            "albumName": "Closer"
+            "albumName": "Closer",
+            "trackUri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw"
           },
           "episode": null,
           "localTrack": null
@@ -936,7 +1874,8 @@
           "track": {
             "trackName": "In the Name of Love",
             "artistName": "Martin Garrix",
-            "albumName": "In the Name of Love"
+            "albumName": "In the Name of Love",
+            "trackUri": "spotify:track:23L5CiUhw2jV1OIMwthR3S"
           },
           "episode": null,
           "localTrack": null
@@ -945,7 +1884,8 @@
           "track": {
             "trackName": "Make Me Yours",
             "artistName": "Borgeous",
-            "albumName": "Make Me Yours"
+            "albumName": "Make Me Yours",
+            "trackUri": "spotify:track:3G2O60rq5a77GEIwK1mVmh"
           },
           "episode": null,
           "localTrack": null
@@ -954,7 +1894,8 @@
           "track": {
             "trackName": "All Night",
             "artistName": "The Vamps",
-            "albumName": "Night & Day"
+            "albumName": "Night & Day",
+            "trackUri": "spotify:track:0dXNQ8dckG4eYfEtq9zcva"
           },
           "episode": null,
           "localTrack": null
@@ -963,7 +1904,8 @@
           "track": {
             "trackName": "Fire In My Soul",
             "artistName": "Oliver Heldens",
-            "albumName": "Fire In My Soul"
+            "albumName": "Fire In My Soul",
+            "trackUri": "spotify:track:0M0FvSNRZmDz0Z769rewlI"
           },
           "episode": null,
           "localTrack": null
@@ -972,16 +1914,18 @@
           "track": {
             "trackName": "More Than You Know",
             "artistName": "Axwell /\\ Ingrosso",
-            "albumName": "More Than You Know"
+            "albumName": "More Than You Know",
+            "trackUri": "spotify:track:6h5PAsRni4IRlxWr6uDPTP"
           },
           "episode": null,
           "localTrack": null
         },
         {
           "track": {
-            "trackName": "All We Know (feat. Phoebe Ryan)",
+            "trackName": "All We Know",
             "artistName": "The Chainsmokers",
-            "albumName": "All We Know (feat. Phoebe Ryan)"
+            "albumName": "All We Know",
+            "trackUri": "spotify:track:2rizacJSyD9S1IQUxUxnsK"
           },
           "episode": null,
           "localTrack": null
@@ -990,7 +1934,8 @@
           "track": {
             "trackName": "All Night - Acoustic",
             "artistName": "The Vamps",
-            "albumName": "All Night - EP"
+            "albumName": "All Night - EP",
+            "trackUri": "spotify:track:2Hi2tWANUXtd1URtLYgwne"
           },
           "episode": null,
           "localTrack": null
@@ -999,7 +1944,8 @@
           "track": {
             "trackName": "Perfect Strangers - Acoustic",
             "artistName": "Jonas Blue",
-            "albumName": "Perfect Strangers"
+            "albumName": "Perfect Strangers",
+            "trackUri": "spotify:track:5AFMjlqAA0skXGqZHGZDxt"
           },
           "episode": null,
           "localTrack": null
@@ -1008,7 +1954,8 @@
           "track": {
             "trackName": "Dancing On My Own - Acoustic",
             "artistName": "Calum Scott",
-            "albumName": "Dancing On My Own"
+            "albumName": "Dancing On My Own",
+            "trackUri": "spotify:track:7tOAtB2F50KXEkw86frba6"
           },
           "episode": null,
           "localTrack": null
@@ -1017,7 +1964,8 @@
           "track": {
             "trackName": "Show Me Love - EDX Remix / Radio Edit",
             "artistName": "Sam Feldt",
-            "albumName": "Show Me Love"
+            "albumName": "Show Me Love",
+            "trackUri": "spotify:track:6PkzXU8dlwtfrwyTlUyVnv"
           },
           "episode": null,
           "localTrack": null
@@ -1026,7 +1974,8 @@
           "track": {
             "trackName": "Getaway",
             "artistName": "Tritonal",
-            "albumName": "Painting With Dreams"
+            "albumName": "Painting With Dreams",
+            "trackUri": "spotify:track:0aAVBcORefVNADGxgqh8XM"
           },
           "episode": null,
           "localTrack": null
@@ -1035,7 +1984,8 @@
           "track": {
             "trackName": "Tie Me Down (with Elley Duhé)",
             "artistName": "Gryffin",
-            "albumName": "Tie Me Down (with Elley Duhé)"
+            "albumName": "Tie Me Down (with Elley Duhé)",
+            "trackUri": "spotify:track:4QVS8YCpK71R4FsxSMCjhP"
           },
           "episode": null,
           "localTrack": null
@@ -1044,7 +1994,8 @@
           "track": {
             "trackName": "Touch",
             "artistName": "3LAU",
-            "albumName": "Ultraviolet"
+            "albumName": "Ultraviolet",
+            "trackUri": "spotify:track:5JKU2tXiG3yvJtefNwe7ZQ"
           },
           "episode": null,
           "localTrack": null
@@ -1053,7 +2004,8 @@
           "track": {
             "trackName": "Feel Good",
             "artistName": "Felix Jaehn",
-            "albumName": "I"
+            "albumName": "I",
+            "trackUri": "spotify:track:6ULQ6ZRc7JuVutRMy6gfgc"
           },
           "episode": null,
           "localTrack": null
@@ -1062,7 +2014,8 @@
           "track": {
             "trackName": "Firestone",
             "artistName": "Kygo",
-            "albumName": "Cloud Nine"
+            "albumName": "Cloud Nine",
+            "trackUri": "spotify:track:1I8tHoNBFTuoJAlh4hfVVE"
           },
           "episode": null,
           "localTrack": null
@@ -1071,7 +2024,8 @@
           "track": {
             "trackName": "Complicated (feat. Kiiara)",
             "artistName": "Dimitri Vegas & Like Mike",
-            "albumName": "Complicated (feat. Kiiara)"
+            "albumName": "Complicated (feat. Kiiara)",
+            "trackUri": "spotify:track:1Sl3njkhhz8nrSPZroDQ82"
           },
           "episode": null,
           "localTrack": null
@@ -1080,7 +2034,8 @@
           "track": {
             "trackName": "Youngblood",
             "artistName": "5 Seconds of Summer",
-            "albumName": "Youngblood"
+            "albumName": "Youngblood",
+            "trackUri": "spotify:track:2iUXsYOEPhVqEBwsqP70rE"
           },
           "episode": null,
           "localTrack": null
@@ -1089,7 +2044,8 @@
           "track": {
             "trackName": "Right Now",
             "artistName": "Nick Jonas",
-            "albumName": "Right Now"
+            "albumName": "Right Now",
+            "trackUri": "spotify:track:43wzy7JxMEfvCh8ZFeZKYk"
           },
           "episode": null,
           "localTrack": null
@@ -1098,7 +2054,8 @@
           "track": {
             "trackName": "No One Compares To You",
             "artistName": "Jack & Jack",
-            "albumName": "A Good Friend Is Nice"
+            "albumName": "A Good Friend Is Nice",
+            "trackUri": "spotify:track:4cZ3UsiKd1kUQIaq4BFIj2"
           },
           "episode": null,
           "localTrack": null
@@ -1107,7 +2064,8 @@
           "track": {
             "trackName": "Kamikaze",
             "artistName": "MØ",
-            "albumName": "Kamikaze"
+            "albumName": "Kamikaze",
+            "trackUri": "spotify:track:6TjP1C3sGQH1jBfzUXfcMg"
           },
           "episode": null,
           "localTrack": null
@@ -1116,7 +2074,8 @@
           "track": {
             "trackName": "Close To Me (with Diplo) (feat. Swae Lee)",
             "artistName": "Ellie Goulding",
-            "albumName": "Close To Me (feat. Swae Lee)"
+            "albumName": "Close To Me (feat. Swae Lee)",
+            "trackUri": "spotify:track:5JEx7HbmvHQQswJCsoo9rA"
           },
           "episode": null,
           "localTrack": null
@@ -1125,7 +2084,8 @@
           "track": {
             "trackName": "Without Me",
             "artistName": "Halsey",
-            "albumName": "Without Me"
+            "albumName": "Without Me",
+            "trackUri": "spotify:track:5p7ujcrUXASCNwRaWNHR1C"
           },
           "episode": null,
           "localTrack": null
@@ -1134,7 +2094,8 @@
           "track": {
             "trackName": "I Like Me Better",
             "artistName": "Lauv",
-            "albumName": "I met you when I was 18. (the playlist)"
+            "albumName": "I met you when I was 18. (the playlist)",
+            "trackUri": "spotify:track:2P91MQbaiQOfbiz9VqhqKQ"
           },
           "episode": null,
           "localTrack": null
@@ -1143,7 +2104,8 @@
           "track": {
             "trackName": "Sexual",
             "artistName": "NEIKED",
-            "albumName": "Sexual"
+            "albumName": "Sexual",
+            "trackUri": "spotify:track:5fKBwqSTuCbnJlCOpeRa3o"
           },
           "episode": null,
           "localTrack": null
@@ -1152,7 +2114,8 @@
           "track": {
             "trackName": "Jackie Chan",
             "artistName": "Tiësto",
-            "albumName": "Jackie Chan"
+            "albumName": "Jackie Chan",
+            "trackUri": "spotify:track:4kWO6O1BUXcZmaxitpVUwp"
           },
           "episode": null,
           "localTrack": null
@@ -1161,7 +2124,8 @@
           "track": {
             "trackName": "Nevada (feat. Cozi Zuehlsdorff)",
             "artistName": "Vicetone",
-            "albumName": "Nevada (feat. Cozi Zuehlsdorff)"
+            "albumName": "Nevada (feat. Cozi Zuehlsdorff)",
+            "trackUri": "spotify:track:5BIjJP1zlOa3iY65RSkXkr"
           },
           "episode": null,
           "localTrack": null
@@ -1170,7 +2134,8 @@
           "track": {
             "trackName": "Woman Like Me (feat. Nicki Minaj)",
             "artistName": "Little Mix",
-            "albumName": "LM5 (Deluxe)"
+            "albumName": "LM5 (Deluxe)",
+            "trackUri": "spotify:track:222B3aljXx6fFwKmFjuBED"
           },
           "episode": null,
           "localTrack": null
@@ -1179,7 +2144,8 @@
           "track": {
             "trackName": "Rise",
             "artistName": "Jonas Blue",
-            "albumName": "Rise"
+            "albumName": "Rise",
+            "trackUri": "spotify:track:3u1S1OmAUhx5DRlLrXqyp3"
           },
           "episode": null,
           "localTrack": null
@@ -1188,7 +2154,8 @@
           "track": {
             "trackName": "Sledgehammer",
             "artistName": "Fifth Harmony",
-            "albumName": "Reflection"
+            "albumName": "Reflection",
+            "trackUri": "spotify:track:7uoulrMQgFZFAIEpRPvewL"
           },
           "episode": null,
           "localTrack": null
@@ -1197,7 +2164,8 @@
           "track": {
             "trackName": "Work from Home (feat. Ty Dolla $ign)",
             "artistName": "Fifth Harmony",
-            "albumName": "7/27"
+            "albumName": "7/27",
+            "trackUri": "spotify:track:4tCtwWceOPWzenK2HAIJSb"
           },
           "episode": null,
           "localTrack": null
@@ -1206,7 +2174,8 @@
           "track": {
             "trackName": "Clarity",
             "artistName": "Zedd",
-            "albumName": "Clarity"
+            "albumName": "Clarity",
+            "trackUri": "spotify:track:60wwxj6Dd9NJlirf84wr2c"
           },
           "episode": null,
           "localTrack": null
@@ -1215,7 +2184,8 @@
           "track": {
             "trackName": "Untameable",
             "artistName": "Rachel Varghese",
-            "albumName": "Four More Shots Please!"
+            "albumName": "Four More Shots Please!",
+            "trackUri": "spotify:track:20axU6S5zq8dMpQBVZSCe3"
           },
           "episode": null,
           "localTrack": null
@@ -1224,7 +2194,8 @@
           "track": {
             "trackName": "I Don't Do Love Anymore",
             "artistName": "Medha Sahi",
-            "albumName": "Four More Shots Please!"
+            "albumName": "Four More Shots Please!",
+            "trackUri": "spotify:track:65SgMuyu8DvMBzLcE1D0sP"
           },
           "episode": null,
           "localTrack": null
@@ -1233,7 +2204,8 @@
           "track": {
             "trackName": "Myself",
             "artistName": "Medha Sahi",
-            "albumName": "Four More Shots Please!"
+            "albumName": "Four More Shots Please!",
+            "trackUri": "spotify:track:3tYI3GE47dvrqCvmrh1KYQ"
           },
           "episode": null,
           "localTrack": null
@@ -1242,7 +2214,8 @@
           "track": {
             "trackName": "Your Side Of The Bed (feat. Eric Nam)",
             "artistName": "Loote",
-            "albumName": "Your Side Of The Bed"
+            "albumName": "Your Side Of The Bed",
+            "trackUri": "spotify:track:3dz63QjQVZy7RYPzx6l3JU"
           },
           "episode": null,
           "localTrack": null
@@ -1251,7 +2224,8 @@
           "track": {
             "trackName": "Cross Me",
             "artistName": "Vibe2Vibe",
-            "albumName": "Cross Me"
+            "albumName": "Cross Me",
+            "trackUri": "spotify:track:01cqobPyx3edvUqwNKV503"
           },
           "episode": null,
           "localTrack": null
@@ -1260,7 +2234,8 @@
           "track": {
             "trackName": "Rich Love (with Seeb)",
             "artistName": "OneRepublic",
-            "albumName": "Rich Love"
+            "albumName": "Rich Love",
+            "trackUri": "spotify:track:7dOeiXeTSfA1ixaYmQcWu7"
           },
           "episode": null,
           "localTrack": null
@@ -1269,7 +2244,8 @@
           "track": {
             "trackName": "Jealous - Remix",
             "artistName": "Nick Jonas",
-            "albumName": "Nick Jonas X2"
+            "albumName": "Nick Jonas X2",
+            "trackUri": "spotify:track:5NQJnRpJHRaupdegphntQT"
           },
           "episode": null,
           "localTrack": null
@@ -1278,7 +2254,8 @@
           "track": {
             "trackName": "TOOTIMETOOTIMETOOTIME",
             "artistName": "The 1975",
-            "albumName": "A Brief Inquiry Into Online Relationships"
+            "albumName": "A Brief Inquiry Into Online Relationships",
+            "trackUri": "spotify:track:33DzKnwuBE6lfOiADwzd5E"
           },
           "episode": null,
           "localTrack": null
@@ -1287,7 +2264,8 @@
           "track": {
             "trackName": "You Don't Know Me",
             "artistName": "Kevin Silvester",
-            "albumName": "You Don't Know Me"
+            "albumName": "You Don't Know Me",
+            "trackUri": "spotify:track:7shgdEooY9RdGuMM71SRax"
           },
           "episode": null,
           "localTrack": null
@@ -1296,7 +2274,8 @@
           "track": {
             "trackName": "Rain",
             "artistName": "The Script",
-            "albumName": "Freedom Child"
+            "albumName": "Freedom Child",
+            "trackUri": "spotify:track:2QWP8NYYplOqEFBYGCcq0S"
           },
           "episode": null,
           "localTrack": null
@@ -1305,7 +2284,8 @@
           "track": {
             "trackName": "Hoodie",
             "artistName": "Hey Violet",
-            "albumName": "From The Outside"
+            "albumName": "From The Outside",
+            "trackUri": "spotify:track:410smJMzhna1ADC2ldqVHu"
           },
           "episode": null,
           "localTrack": null
@@ -1314,7 +2294,8 @@
           "track": {
             "trackName": "Sucker for You",
             "artistName": "Matt Terry",
-            "albumName": "Sucker for You"
+            "albumName": "Sucker for You",
+            "trackUri": "spotify:track:5H9H0i7UCmRDCZRHldbmhN"
           },
           "episode": null,
           "localTrack": null
@@ -1323,7 +2304,8 @@
           "track": {
             "trackName": "NIKES",
             "artistName": "Jake Miller",
-            "albumName": "BASED ON A TRUE STORY. (EXTENDED)"
+            "albumName": "BASED ON A TRUE STORY. (EXTENDED)",
+            "trackUri": "spotify:track:4F7xiv8waD97haoBAlldPH"
           },
           "episode": null,
           "localTrack": null
@@ -1332,7 +2314,8 @@
           "track": {
             "trackName": "Solo Dance",
             "artistName": "Martin Jensen",
-            "albumName": "Solo Dance"
+            "albumName": "Solo Dance",
+            "trackUri": "spotify:track:10AsRVRdU07cMAFHeGYO3c"
           },
           "episode": null,
           "localTrack": null
@@ -1341,7 +2324,8 @@
           "track": {
             "trackName": "Instagram",
             "artistName": "Dimitri Vegas & Like Mike",
-            "albumName": "Instagram"
+            "albumName": "Instagram",
+            "trackUri": "spotify:track:0U6bQIAh6MCGo1xjbIIx2S"
           },
           "episode": null,
           "localTrack": null
@@ -1350,7 +2334,8 @@
           "track": {
             "trackName": "Insomnia",
             "artistName": "Daya",
-            "albumName": "Insomnia"
+            "albumName": "Insomnia",
+            "trackUri": "spotify:track:7hzlzoOwCZ4D3Ow5YZK4kj"
           },
           "episode": null,
           "localTrack": null
@@ -1359,7 +2344,8 @@
           "track": {
             "trackName": "Electricity (with Dua Lipa)",
             "artistName": "Silk City",
-            "albumName": "Electricity (with Dua Lipa)"
+            "albumName": "Electricity (with Dua Lipa)",
+            "trackUri": "spotify:track:5N4erncE7kuUccm7zEmwzk"
           },
           "episode": null,
           "localTrack": null
@@ -1368,7 +2354,8 @@
           "track": {
             "trackName": "Let It Be Me",
             "artistName": "Steve Aoki",
-            "albumName": "Let It Be Me"
+            "albumName": "Let It Be Me",
+            "trackUri": "spotify:track:1LjxmkW3xRQP2HzswhYyyc"
           },
           "episode": null,
           "localTrack": null
@@ -1377,7 +2364,8 @@
           "track": {
             "trackName": "Red Dress",
             "artistName": "MAGIC!",
-            "albumName": "Primary Colours"
+            "albumName": "Primary Colours",
+            "trackUri": "spotify:track:1MDuXjpO68UVjbBzrTL1Aq"
           },
           "episode": null,
           "localTrack": null
@@ -1386,7 +2374,8 @@
           "track": {
             "trackName": "Devil Inside Me (feat. KARRA)",
             "artistName": "KSHMR",
-            "albumName": "Devil Inside Me (feat. KARRA)"
+            "albumName": "Devil Inside Me (feat. KARRA)",
+            "trackUri": "spotify:track:6h7MPC2hBJHJQuobsRXqwF"
           },
           "episode": null,
           "localTrack": null
@@ -1395,7 +2384,8 @@
           "track": {
             "trackName": "Symphony",
             "artistName": "Sick Individuals",
-            "albumName": "Symphony"
+            "albumName": "Symphony",
+            "trackUri": "spotify:track:1iaLcGW8ffLMPFSLSGn0Zs"
           },
           "episode": null,
           "localTrack": null
@@ -1404,7 +2394,8 @@
           "track": {
             "trackName": "On Me (feat. Ava Max)",
             "artistName": "Thomas Rhett",
-            "albumName": "SCOOB! The Album"
+            "albumName": "SCOOB! The Album",
+            "trackUri": "spotify:track:7k6tAZp4m93oswrPqSfBbc"
           },
           "episode": null,
           "localTrack": null
@@ -1413,7 +2404,8 @@
           "track": {
             "trackName": "I Want You to Freak",
             "artistName": "Rak-Su",
-            "albumName": "I Want You to Freak"
+            "albumName": "I Want You to Freak",
+            "trackUri": "spotify:track:62hK2OalNLhutnAShdq8nS"
           },
           "episode": null,
           "localTrack": null
@@ -1422,7 +2414,8 @@
           "track": {
             "trackName": "La Bomba",
             "artistName": "Rak-Su",
-            "albumName": "La Bomba"
+            "albumName": "La Bomba",
+            "trackUri": "spotify:track:4oEwURnhoLurcwCXnWoMcI"
           },
           "episode": null,
           "localTrack": null
@@ -1431,7 +2424,88 @@
           "track": {
             "trackName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)",
             "artistName": "Matoma",
-            "albumName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)"
+            "albumName": "Bruised Not Broken (feat. MNEK & Kiana Ledé)",
+            "trackUri": "spotify:track:2ak79ho44RiDi9DFrqYgfq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Girl in the Mirror",
+            "artistName": "Bebe Rexha",
+            "albumName": "UglyDolls",
+            "trackUri": "spotify:track:2UcK3xgGDxPSyKzKqyPv0s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Zurna",
+            "artistName": "Blasterjaxx",
+            "albumName": "Zurna",
+            "trackUri": "spotify:track:5H6af60Y0yBIEzjfbAXLBq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Like A Riddle (feat. Hearts & Colors, Adam Trigger)",
+            "artistName": "Felix Jaehn",
+            "albumName": "I",
+            "trackUri": "spotify:track:2jGOQqWZKjy6A64kWIcdIs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Everything About You (feat. your friend polly)",
+            "artistName": "Sam Feldt",
+            "albumName": "Everything About You (feat. your friend polly)",
+            "trackUri": "spotify:track:3CC7fyeynJ2RVDUlUDPNXR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Going Like",
+            "artistName": "Hallman",
+            "albumName": "I'm Going Like",
+            "trackUri": "spotify:track:4o7zeDjEoPALOH9ZN483Oj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Luv U (with R3HAB)",
+            "artistName": "Sofia Carson",
+            "albumName": "I Luv U (with R3HAB)",
+            "trackUri": "spotify:track:3HTySujYyWa1nZdfiZVZs0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "So Sick (feat. blackbear) [Martin Jensen Remix]",
+            "artistName": "Kiiara",
+            "albumName": "So Sick (feat. blackbear) [Martin Jensen Remix]",
+            "trackUri": "spotify:track:4j1fFJvUcQxMrLEMBHV9NQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mr. Saxobeat",
+            "artistName": "Klaas",
+            "albumName": "Mr. Saxobeat",
+            "trackUri": "spotify:track:2dmZy75CTSv6BFo7IbO0eK"
           },
           "episode": null,
           "localTrack": null
