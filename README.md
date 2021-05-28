@@ -8,4 +8,6 @@ Moreover, performed a cluster analysis on the dataset.
 
 - Editor used: VS code
 - Python version: 3.9.4
-- Packages used: pandas, matplotlib, seaborn, calplot, sklearn
+- Packages used: pandas, matplotlib, seaborn, calplot, sklearn, spotipy, requests
+- Data scraper 1: [Blog](https://towardsdatascience.com/get-your-spotify-streaming-history-with-python-d5a208bbcbd3) and [GitHub](https://github.com/vlad-ds/spoty-records)
+- Data scraper 2: [Blog](https://towardsdatascience.com/viz-your-music-with-spotify-api-and-plotly-eaa65f652191) and [GitHub](https://github.com/VincyHu/MusicForYou)
