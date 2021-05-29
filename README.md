@@ -14,6 +14,10 @@ Moreover, performed a cluster analysis on the dataset.
 
 ## About the Dataset
 
+I have downloaded my music history from spotify using the Spotify API. 
+
+I have two 
+
 ## Data Cleaning
 
 ## Exploratory Data Analysis
