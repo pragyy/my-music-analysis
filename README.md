@@ -45,7 +45,7 @@ Different cluster algorithms performed are:
 - DBSCAN
 - Mini-Batch Kmeans
 
-## BLog Links
+## Blog Links
 
 If you prefer an in-depth explanation for the code in this repository, you can go through the following articles:
 
