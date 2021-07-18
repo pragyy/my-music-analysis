@@ -14,12 +14,40 @@ Moreover, performed a cluster analysis on the dataset.
 
 ## About the Dataset
 
-I have downloaded my music history from spotify using the Spotify API. 
-
-I have two 
+The data is scraped from Spotify using it's API.
 
 ## Data Cleaning
 
+The data is then preprocessed and transformed as required to avoid any abberations that might later skew the results. 
+
+The data cleaning steps that are performed are:
+- Dropping duplicate columns
+- Dropping duplicate rows
+- Null check
+- Data Format check
+- Value check
+
 ## Exploratory Data Analysis
 
+A few of the visualizaton highlights are:
+![calplot](https://user-images.githubusercontent.com/36094150/126072660-27c2e153-d977-4f79-b07d-c2533da2105f.PNG)
+![radar2](https://user-images.githubusercontent.com/36094150/126072676-13fa4c0b-1566-458e-a349-5362cd0dc8ce.PNG)
+
 ## Cluster Analysis
+
+Various cluster analysis are performed to group and define the cluster profiles of the songs.
+
+Different cluster algorithms performed are:
+- KMeans clustering
+- Agglomerative clustering
+- Affinity Propagation Clustering
+- BIRCH
+- DBSCAN
+- Mini-Batch Kmeans
+
+## BLog Links
+
+If you prefer an in-depth explanation for the code in this repository, you can go through the following articles:
+
+https://medium.com/analytics-vidhya/spotify-music-data-analysis-part-1-c8457bfc53a
+https://medium.com/analytics-vidhya/spotify-music-data-analysis-part-2-3a69ae0f7f01
