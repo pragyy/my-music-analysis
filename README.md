@@ -51,3 +51,5 @@ If you prefer an in-depth explanation for the code in this repository, you can g
 
 - https://medium.com/analytics-vidhya/spotify-music-data-analysis-part-1-c8457bfc53a
 - https://medium.com/analytics-vidhya/spotify-music-data-analysis-part-2-3a69ae0f7f01
+- https://medium.com/analytics-vidhya/spotify-music-data-analysis-part-3-9097829df16e
+- https://medium.com/analytics-vidhya/spotify-music-data-analysis-part-4-4016e2954795
